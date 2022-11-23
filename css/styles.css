@@ -1,0 +1,50 @@
+
+.imgheader{
+    background: url("../img/web.jpg");
+    height: 350px;
+}
+.alto{
+    height: 400px;
+}
+
+li{
+    list-style: none;
+}
+
+.txt-white{
+    color: white;
+    text-decoration: none;
+    margin: 0.5rem;
+    font-size: 1.5rem;
+    
+}
+.txt-white:hover{
+    color:#0c0c0c;
+    cursor: pointer;
+    border-bottom: 2px solid white;
+    transition: all 0.5s ease-in-out;
+}
+
+.borde1{
+    border: 1px solid black;
+
+}
+img{
+    width: 80px;
+    height: 80px;
+}
+.bar{
+    background-color: red;
+    width: 30%;
+}
+
+.progreso{
+    width: 50%;
+}
+footer ul li a img {
+    width: 45px;
+    height: 45px;
+}
+footer{
+    background-color:  #484848;
+}

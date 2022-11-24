@@ -1,10 +1,16 @@
-
 .imgheader{
     background: url("../img/web.jpg");
     height: 350px;
 }
 .alto{
     height: 400px;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+p{
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
 }
 
 li{
@@ -16,6 +22,7 @@ li{
     text-decoration: none;
     margin: 0.5rem;
     font-size: 1.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
 }
 .txt-white:hover{
@@ -29,10 +36,17 @@ li{
     border: 1px solid black;
 
 }
-img{
+h2 img{
+    width: 500px;
+    height: 5rem;
+}
+
+.foto{
     width: 80px;
     height: 80px;
 }
+
+
 .bar{
     background-color: red;
     width: 30%;
@@ -47,4 +61,10 @@ footer ul li a img {
 }
 footer{
     background-color:  #484848;
+}
+.margen{
+    margin: 5rem;
+}
+textarea{
+    height: 10rem;
 }
